@@ -1,0 +1,74 @@
+h1
+{
+    text-align: center;
+}
+table p
+{
+    visibility: hidden;
+}
+
+td:hover p
+{
+    visibility: visible;
+}
+
+table
+{
+    border-collapse: collapse;
+    margin: auto;
+}
+
+td
+{
+    width: 80px;
+    height: 80px;
+    border: 5px solid white;
+    margin: 0;
+    padding: 0.25em;
+}
+
+td div
+{
+    display: block;
+    width: 70px;
+    height: 70px;
+    margin: auto auto;
+}
+
+td:hover>div
+{
+    background-color: rgba(255,0,0,0.5);
+}
+div p
+{
+    
+}
+
+.negro
+{
+    background-color: black;
+}
+.negro:hover 
+{
+    color: white;
+}
+
+footer
+{
+    background-color: #2d3436;
+    padding: 20px;
+    color: white;
+}
+
+.section-footer
+{
+    display: inline;
+    margin: 0 15%;
+}
+
+footer a
+{
+    text-decoration: none;
+    color:brown;
+}
+
