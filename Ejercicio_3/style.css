@@ -1,0 +1,55 @@
+.tamaños input{
+    background-color: #f4f3f2;
+    color: #6f6f6f;
+    border: none;
+    border-radius: 5px;
+    margin: 0 0.5%;
+}
+
+.pequeño
+{
+    font-size: 0.7em;
+    padding: 10px;
+}
+
+.normal{
+    font-size: 1em;
+    padding: 10px 20px 10px 20px;
+}
+
+.grande{
+    padding: 10px 20px 10px 20px;
+    font-size: 2em;
+}
+
+.colores input{
+    border: none;
+    margin: 0 0.5%;
+    text-transform: uppercase;
+    border-radius: 8px;
+    font-size: 2em;
+}
+
+input[value=esmeralda]{
+    background-color: #57d68d;
+}
+
+input[value=cielo]{
+    background-color: #5cace2;
+}
+
+input[value=amatista]{
+    background-color: #ae7ac4;
+}
+
+input[value=asfalto]{
+    background-color: #5c6d7e;
+}
+
+input[value=topazio]{
+    background-color: #ea974e;
+}
+
+input[value=rubi]{
+    background-color: #eb6f62;
+}
