@@ -24,32 +24,34 @@
 
 .colores input{
     border: none;
+    color:white;
+    padding: 10px 20px 10px 20px;
     margin: 0 0.5%;
     text-transform: uppercase;
-    border-radius: 8px;
-    font-size: 2em;
+    border-radius: 5px;
+    font-size: 1em;
 }
 
-input[value=esmeralda]{
+.esmeralda{
     background-color: #57d68d;
 }
 
-input[value=cielo]{
+.cielo{
     background-color: #5cace2;
 }
 
-input[value=amatista]{
+.amatista{
     background-color: #ae7ac4;
 }
 
-input[value=asfalto]{
+.asfalto{
     background-color: #5c6d7e;
 }
 
-input[value=topazio]{
+.topazio{
     background-color: #ea974e;
 }
 
-input[value=rubi]{
+.rubi{
     background-color: #eb6f62;
 }
