@@ -5,10 +5,18 @@ nav div p
     color: peru;
     font-family: 'M PLUS Rounded 1c', sans-serif;    
 }
+
+nav a:hover
+{
+    color: lightcoral;
+}
+
 nav
 {
+    margin-bottom:100%;
     background-color: #2d3436;
     margin-bottom: 2%;
+    box-shadow: 0 0 1px 0 #000;
 }
 
 .logo-container
