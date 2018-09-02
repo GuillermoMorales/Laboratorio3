@@ -2,25 +2,23 @@
     background-color: #f4f3f2;
     color: #6f6f6f;
     border: none;
-    border-radius: 5px;
+    border-radius: 6px;
     margin: 0 0.5%;
+    padding: 10px 20px 10px 20px;
 }
 
 .pequeño
 {
     font-size: 0.7em;
-    padding: 10px;
 }
 
 .normal
 {
     font-size: 1em;
-    padding: 10px 20px 10px 20px;
 }
 
 .grande
 {
-    padding: 10px 20px 10px 20px;
     font-size: 2em;
 }
 
@@ -30,7 +28,7 @@
     color:white;
     padding: 10px 20px 10px 20px;
     margin: 0 0.5%;
-    border-radius: 5px;
+    border-radius: 6px;
     font-size: 1em;
 }
 
@@ -54,7 +52,8 @@
     background-color: #5c6d7e;
 }
 
-.topazio{
+.topazio
+{
     background-color: #ea974e;
 }
 
@@ -67,8 +66,14 @@
     background-color: white;
     padding: 10px 20px 10px 20px;
     margin: 0 0.5%;
-    border-radius: 5px;
+    border-radius: 6px;
     font-size: 1em;
+    font-weight: 550;
+}
+.simpleb
+{
+    border: 1px solid #929292;
+    color:#929292;
 }
 .esmeraldab
 {
@@ -100,7 +105,47 @@
     color: #ea974e;
 }
 
-.rubib{
+.rubib
+{
     border: 1px solid #eb6f62;
     color: #eb6f62;
+}
+
+.combinaciones input
+{
+    padding: 10px 20px 10px 20px;
+    margin: 0 0.5%;
+    border-radius: 6px;
+}
+
+.largoasfalto
+{
+    font-size: 2em;
+    color:white;
+    background: #5c6d7e;
+    border:none;
+}
+
+.bordecielo
+{
+    border:1px solid #5cace2;
+    color: #5cace2;
+    background: white;
+    font-size: 1em;
+}
+
+.pequeñaesmeralda
+{
+    font-size: 0.7em;
+    border:none;
+    color:white;
+    background-color: #57d68d;
+}
+
+.granrubi
+{
+    font-size: 2em;
+    border: 1px solid #eb6f62;
+    color: #eb6f62;
+    background-color: white;
 }
