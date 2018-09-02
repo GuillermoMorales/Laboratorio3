@@ -12,39 +12,45 @@
     padding: 10px;
 }
 
-.normal{
+.normal
+{
     font-size: 1em;
     padding: 10px 20px 10px 20px;
 }
 
-.grande{
+.grande
+{
     padding: 10px 20px 10px 20px;
     font-size: 2em;
 }
 
-.colores input{
+.colores input
+{
     border: none;
     color:white;
     padding: 10px 20px 10px 20px;
     margin: 0 0.5%;
-    text-transform: uppercase;
     border-radius: 5px;
     font-size: 1em;
 }
 
-.esmeralda{
+.esmeralda
+{
     background-color: #57d68d;
 }
 
-.cielo{
+.cielo
+{
     background-color: #5cace2;
 }
 
-.amatista{
+.amatista
+{
     background-color: #ae7ac4;
 }
 
-.asfalto{
+.asfalto
+{
     background-color: #5c6d7e;
 }
 
@@ -54,4 +60,47 @@
 
 .rubi{
     background-color: #eb6f62;
+}
+
+.bordeado input
+{
+    background-color: white;
+    padding: 10px 20px 10px 20px;
+    margin: 0 0.5%;
+    border-radius: 5px;
+    font-size: 1em;
+}
+.esmeraldab
+{
+    border: 1px solid #57d68d;
+    color:#57d68d;
+}
+
+.cielob
+{
+    border:1px solid #5cace2;
+    color: #5cace2;
+}
+
+.amatistab
+{
+    border: 1px solid #ae7ac4;
+    color: #ae7ac4
+}
+
+.asfaltob
+{
+    border: 1px solid #5c6d7e;
+    color: #5c6d7e;
+}
+
+.topaziob
+{
+    border: 1px solid #ea974e;
+    color: #ea974e;
+}
+
+.rubib{
+    border: 1px solid #eb6f62;
+    color: #eb6f62;
 }
