@@ -1,0 +1,38 @@
+
+nav div p
+{
+    font-size: 1em;
+    color: peru;
+    font-family: 'M PLUS Rounded 1c', sans-serif;    
+}
+nav
+{
+    background-color: #2d3436;
+    margin-bottom: 2%;
+}
+
+.logo-container
+{
+    display: inline-block;
+    padding: 10px;
+}
+
+nav ul
+{
+    display: inline;
+    padding: 20px;
+    margin-left: 5%;
+} 
+
+nav ul li
+{
+    display: inline;
+}
+
+nav ul li a
+{
+    padding: 20px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
